@@ -1,4 +1,4 @@
-[E-Commerce Website with FAQ Bot](http://127.0.0.1:5500/contact.html)
+[E-Commerce Website with FAQ Bot](http://127.0.0.1:5500/index.html)
 
 This is 10 Page E-commerce Front End website design
 
