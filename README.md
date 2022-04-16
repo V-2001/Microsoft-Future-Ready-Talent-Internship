@@ -1,4 +1,4 @@
-[**E-Commerce Website with FAQ Bot**](https://salmon-island-0f35ec70f.1.azurestaticapps.net/index.html)
+# [E-Commerce Website with FAQ Bot](https://salmon-island-0f35ec70f.1.azurestaticapps.net/index.html)
 
 This is 10 Page E-commerce Front End website design
 
@@ -31,4 +31,7 @@ Azure Bot Service, QnA Maker, Static Web Apps
 ### Other Azure Technologies :
 App Service
 
-<a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/ROHAN0011/Microsoft-Future-Ready-Talent-Internship-Project/blob/5ae1e52f4f4236d8ca92ea9189794835ce087467/FRT.jpeg" width="700" height= "350"></p></a>  
+
+
+>**Vaishnavi Abhangrao**
+  
