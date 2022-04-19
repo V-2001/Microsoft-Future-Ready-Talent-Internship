@@ -2,7 +2,7 @@
 
 This is 10 Page E-commerce Front End website design
 
-Web Technologies used: HTML, CSS, Javascript
+Web Technologies used: HTML, CSS, JavaScript
 
 IDE: VS-Code
 
