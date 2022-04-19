@@ -17,7 +17,7 @@ E-Commerce Website with FAQ Bot
 
 
 ### Problem Statement/Opportunity :
-An e-commerce company wants to build a sample Front End prototype website for their business as the online shopping industry has been growing at an incredible rate, and so have ecommerce challenges. To build a whole website they have chosen Azure Cloud Platform. Build a website that have: Home Page, Product detail Page, Cart, Product Category Page, Checkout Page along with FAQ Bot deployed on Website for customers help.
+An e-commerce company wants to build a sample Front End prototype website for their business as the online shopping industry has been growing at an incredible rate, and so have ecommerce challenges. To build a whole website they have chosen Azure Cloud Platform. Build a website that have: Home Page, Product detail Page, Cart, Product Category Page, Checkout Page, Contact Page along with FAQ Bot deployed on Website for customers help.
 
 
 ### Project Description :
